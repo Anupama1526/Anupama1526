@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Anupama Mishra</h1>
 <h3 align="center">Aspiring Developer | Computer Science Enthusiast | Lifelong Learner</h3>
 
-<p align="left"> <img src="https://github.com/Anupama1526/Anupama1526/assets/98888727/d8a51025-c760-47d2-8d13-aadc7c1b12f9" /> </p>
+<p align="right"> <img src="https://github.com/Anupama1526/Anupama1526/assets/98888727/d8a51025-c760-47d2-8d13-aadc7c1b12f9" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupama1526&label=Profile%20views&color=0e75b6&style=flat" alt="anupama1526" /> </p>
 
