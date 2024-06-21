@@ -1,4 +1,4 @@
-![logo] (https://github.com/Anupama1526/Anupama1526/blob/main/Your%20paragraph%20text.png)
+![logo](https://github.com/Anupama1526/Anupama1526/blob/main/Your%20paragraph%20text.png)
 <h1 align="center">Hi 👋, I'm Anupama Mishra</h1>
 <h3 align="center">Aspiring Developer | Computer Science Enthusiast | Lifelong Learner</h3>
 
